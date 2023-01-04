@@ -1,0 +1,9 @@
+site_name: My Docs
+
+# https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - About: about.md
